@@ -1,0 +1,9 @@
+Disk quotas for user example (uid 1337): 
+  Filesystem   blocks    quota    limit   grace   files   quota   limit   grace
+/home
+                59714   153599   153599             547    4999    4999        
+/www
+                 1462   153599   153599             103    4999    4999        
+/mail
+                  208   153599   153599               2    4998    4998        
+
